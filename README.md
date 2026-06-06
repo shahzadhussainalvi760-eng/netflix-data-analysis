@@ -39,6 +39,22 @@ and popularity on Netflix.
 
 ---
 
+## 📈 Visualizations
+
+### 🎭 Most Frequent Genres
+![Genre Distribution](genre_distributionPNG.PNG)
+
+### 🏆 Top 10 Most Popular Movies
+![Top 10 Popular](top10_popular.PNG)
+
+### 📅 Movies Released Per Year
+![Movies Per Year](movies_per_year.PNG)
+
+### ⭐ Vote Average Distribution
+![Vote Distribution](vote_distribution.PNG)
+
+---
+
 ## 🛠️ Technologies Used
 
 | Tool | Purpose |
@@ -50,63 +66,6 @@ and popularity on Netflix.
 | Seaborn | Statistical charts |
 | OpenPyXL | Excel export |
 | XlsxWriter | Excel charts |
-
----
-
-## 📁 Project Structure
-
-    netflix-data-analysis/
-    │
-    ├── README.md
-    ├── requirements.txt
-    ├── .gitignore
-    │
-    ├── data/
-    │   └── Netflix_data.csv
-    │
-    ├── notebook/
-    │   └── netflix_analysis.ipynb
-    │
-    ├── output/
-    │   └── Netflix_Full_Analysis.xlsx
-    │
-    └── images/
-        ├── genre_distribution.png
-        ├── top10_popular.png
-        ├── vote_distribution.png
-        └── movies_per_year.png
-
----
-
-## 🚀 How to Run
-
-### Step 1: Clone the repository
-    git clone https://github.com/yourusername/netflix-data-analysis.git
-
-### Step 2: Navigate to project folder
-    cd netflix-data-analysis
-
-### Step 3: Install required libraries
-    pip install -r requirements.txt
-
-### Step 4: Open Jupyter Notebook
-    jupyter notebook notebook/netflix_analysis.ipynb
-
----
-
-## 📈 Sample Visualizations
-
-### Most Frequent Genres
-![Genre Distribution](images/genre_distribution.png)
-
-### Top 10 Most Popular Movies
-![Top 10 Popular](images/top10_popular.png)
-
-### Movies Released Per Year
-![Movies Per Year](images/movies_per_year.png)
-
-### Vote Average Distribution
-![Vote Distribution](images/vote_distribution.png)
 
 ---
 
@@ -134,14 +93,30 @@ and popularity on Netflix.
 
 ---
 
+## 🚀 How to Run
+
+### Step 1: Clone the repository
+    git clone https://github.com/yourusername/netflix-data-analysis.git
+
+### Step 2: Navigate to project folder
+    cd netflix-data-analysis
+
+### Step 3: Install required libraries
+    pip install -r requirements.txt
+
+### Step 4: Open Jupyter Notebook
+    jupyter notebook Netflix_Analysis.ipynb
+
+---
+
 ## 👤 Author
 
-- **Name**: Your Name
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **Name**    : Shehzad Hussaon
+- **GitHub**  : https://www.linkedin.com/in/shehzad-hussain-42a5443ab/skills/edit/forms/new/
+- **LinkedIn**: https://www.linkedin.com/in/shehzad-hussain-42a5443ab/skills/edit/forms/new/
 
 ---
 
 ## 📜 License
 This project is licensed under the
-MIT License - see the LICENSE file for details.
+MIT License
