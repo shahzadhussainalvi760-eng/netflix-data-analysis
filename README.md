@@ -23,8 +23,8 @@ and popularity on Netflix.
 | Resource | Link |
 |:---------|:-----|
 | 📓 **Jupyter Notebook** | [View Notebook](https://github.com/yourusername/netflix-data-analysis/blob/main/Netflix_Analysis.ipynb) |
-| 📊 **Dataset** | [Download Dataset](https://github.com/yourusername/netflix-data-analysis/blob/main/Netflix_data.csv) |
-| 📥 **Raw Dataset** | [Raw CSV](https://raw.githubusercontent.com/yourusername/netflix-data-analysis/main/Netflix_data.csv) |
+| 📊 **Dataset** | [Download Dataset](https://github.com/yourusername/netflix-data-analysis/blob/main/Netflix's_data.csv) |
+| 📥 **Raw Dataset** | [Raw CSV](https://raw.githubusercontent.com/yourusername/netflix-data-analysis/main/Netflix's_data.csv) |
 | 📈 **Excel Report** | [Download Excel](https://github.com/yourusername/netflix-data-analysis/blob/main/Netflix_Full_Analysis.xlsx) |
 
 ---
