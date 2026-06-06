@@ -16,7 +16,18 @@ about movie trends, genres, ratings,
 and popularity on Netflix.
 
 ---
+---
 
+## 🔗 Quick Links
+
+| Resource | Link |
+|:---------|:-----|
+| 📓 **Jupyter Notebook** | [View Notebook](https://github.com/yourusername/netflix-data-analysis/blob/main/Netflix_Analysis.ipynb) |
+| 📊 **Dataset** | [Download Dataset](https://github.com/yourusername/netflix-data-analysis/blob/main/Netflix_data.csv) |
+| 📥 **Raw Dataset** | [Raw CSV](https://raw.githubusercontent.com/yourusername/netflix-data-analysis/main/Netflix_data.csv) |
+| 📈 **Excel Report** | [Download Excel](https://github.com/yourusername/netflix-data-analysis/blob/main/Netflix_Full_Analysis.xlsx) |
+
+---
 ## 🎯 Key Questions Answered
 - What is the most frequent genre on Netflix?
 - Which movie has the highest popularity?
