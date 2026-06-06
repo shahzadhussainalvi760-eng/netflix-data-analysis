@@ -17,15 +17,15 @@ and popularity on Netflix.
 
 ---
 ---
-
 ## 🔗 Quick Links
 
 | Resource | Link |
 |:---------|:-----|
 | 📓 **Jupyter Notebook** | [View Notebook](https://github.com/yourusername/netflix-data-analysis/blob/main/Netflix_Analysis.ipynb) |
-| 📊 **Dataset** | [Download Dataset](https://github.com/yourusername/netflix-data-analysis/blob/main/Netflix's_data.csv) |
-| 📥 **Raw Dataset** | [Raw CSV](https://raw.githubusercontent.com/yourusername/netflix-data-analysis/main/Netflix's_data.csv) |
+| 📊 **Dataset** | [View Dataset](https://github.com/yourusername/netflix-data-analysis/blob/main/Netflix's_data.csv) |
 | 📈 **Excel Report** | [Download Excel](https://github.com/yourusername/netflix-data-analysis/blob/main/Netflix_Full_Analysis.xlsx) |
+| 📊 **Presentation** | [View PPT](https://github.com/yourusername/netflix-data-analysis/blob/main/movie%20data%20analysis%20project%20ppt.pptx) |
+
 
 ---
 ## 🎯 Key Questions Answered
